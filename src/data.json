@@ -1,0 +1,20 @@
+[
+    { "id": 1, "name": "Rakib", "favGame": "dota 2 valorant", "hours": 10050},
+    { "id": 2, "name": "Dip Chowdhury", "favGame": "dota 2 valorant", "hours": 10450},
+    { "id": 3, "name": "rabby", "favGame": "genshin impact", "hours": 6450},
+    { "id": 4, "name": "Efty", "favGame": "dota 2", "hours": 7450},
+    { "id": 5, "name": "Rizvy", "favGame": "dota 2 CSGO", "hours": 11450},
+    { "id": 6, "name": "Nihan", "favGame": "dota 2", "hours": 12450},
+    { "id": 7, "name": "Revenge", "favGame": "CS 2", "hours": 2450},
+    { "id": 8, "name": "Niloy", "favGame": "dota 2", "hours": 3450},
+    { "id": 9, "name": "Totoro", "favGame": "dota 2", "hours": 1220},
+    { "id": 10, "name": "Muo", "favGame": "dota 2", "hours": 6270},
+    { "id": 11, "name": "Miri", "favGame": "dota 2", "hours": 1270},
+    { "id": 12, "name": "Yin", "favGame": "dota 2 CSGO", "hours": 1270},
+    { "id": 13, "name": "Luffy", "favGame": "dota 2", "hours": 12070},
+    { "id": 14, "name": "Riham", "favGame": "dota 2", "hours": 12150},
+    { "id": 15, "name": "Ifty", "favGame": "dota 2 Ninja gear", "hours": 10120},
+    { "id": 16, "name": "Rdx", "favGame": "dota 2 Sea of theives", "hours": 15120},
+    { "id": 17, "name": "Legalpapy", "favGame": "dota 2", "hours": 7120}
+
+]
